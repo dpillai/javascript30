@@ -1,2 +1,2 @@
 # javascript30
-Projects done as port of the JavaScript 30
+Projects done as part of the JavaScript 30
